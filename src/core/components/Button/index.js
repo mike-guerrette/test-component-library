@@ -4,7 +4,8 @@ import Colors from '../../styles/colors';
 
 const Button = styled.button({
   backgroundColor: Colors.UI.Background.Blue,
-  padding: Spacing.Tiny
+  padding: Spacing.Tiny,
+  textAlign: 'center'
 });
 
 export default Button;
