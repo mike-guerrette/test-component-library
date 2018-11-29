@@ -1,6 +1,8 @@
 {
   "plugins": ["emotion"],
   "presets": [
-    "react-app"
+    "react",
+    "es2015",
+    "stage-3"
   ]
 }
