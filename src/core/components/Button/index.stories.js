@@ -4,4 +4,4 @@ import { action } from '@storybook/addon-actions';
 import Button from '.';
 
 storiesOf('Button', module)
-  .add('with text', () => <Button onClick={action('clicked!')}>Click here</Button>);
+  .add('with text', () => <Button onClick={action('clicked!')}>Click here!</Button>);
