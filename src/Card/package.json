@@ -1,0 +1,15 @@
+{
+  "name": "@robinpowered/ui-card",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/core": "^10.0.0",
+    "react": "^16.6.3"
+  }
+}

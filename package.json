@@ -1,0 +1,25 @@
+{
+  "name": "robin-component-library",
+  "private": true,
+  "devDependencies": {
+    "babel-core": "6.26.0",
+    "babel-jest": "20.0.3",
+    "babel-loader": "7.1.2",
+    "babel-preset-react-app": "^3.1.1",
+    "babel-runtime": "6.26.0",
+    "@storybook/addon-actions": "^3.4.8",
+    "@storybook/addon-centered": "^3.4.10",
+    "@storybook/addon-info": "^3.4.11",
+    "@storybook/addon-knobs": "^3.4.11",
+    "@storybook/addon-links": "^3.4.8",
+    "@storybook/addons": "^3.4.8",
+    "@storybook/react": "^3.4.8",
+    "lerna": "^3.5.0",
+    "react-dom": "^16.6.3",
+    "react": "^16.6.3"
+  },
+  "scripts": {
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  }
+}
