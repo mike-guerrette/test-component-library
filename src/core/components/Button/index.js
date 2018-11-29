@@ -4,7 +4,7 @@ import Colors from '../../styles/colors';
 
 const Button = styled.button({
   backgroundColor: Colors.UI.Background.LightBlue,
-  padding: Spacing.Tiny,
+  padding: Spacing.xSmall,
   textAlign: 'center'
 });
 
