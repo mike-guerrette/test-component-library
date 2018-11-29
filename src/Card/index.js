@@ -1,13 +1,11 @@
 import styled from 'react-emotion';
-import {Spacing, Colors} from '@robinpowered/ui-core';
-
-console.log(Colors.UI.Background.Blue);
+import {Spacing} from '@robinpowered/ui-core';
 
 const Card = styled.div({
   border: '1px solid gray',
   padding: Spacing.Small,
   color: 'blue',
-  backgroundColor: Colors.UI.Background.White
+  backgroundColor: 'white'
 });
 
 export default Card;
