@@ -96,7 +96,7 @@ export const UI = {
 };
 
 const Colors = {};
+Colors.Palette = Palette;
 Colors.UI = UI;
 
 export default Colors;
- 

@@ -72,6 +72,15 @@
   resolved "https://registry.yarnpkg.com/@emotion/utils/-/utils-0.8.2.tgz#576ff7fb1230185b619a75d258cbc98f0867a8dc"
   integrity sha512-rLu3wcBWH4P5q1CGoSSH/i9hrXs7SlbRLkoq9IGuoPYNGQvDJ3pt/wmOM+XgYjIDRMVIdkUWt0RsfzF50JfnCw==
 
+"@robinpowered/ui-core@^1.0.2":
+  version "1.0.2"
+  resolved "http://0.0.0.0:4873/@robinpowered%2fui-core/-/ui-core-1.0.2.tgz#8d85a684b92d3332534b90acd3360437295fac4a"
+  integrity sha512-4dvqL6dsYMAnEiojBFBlAwzziOBgdnhEYW3H52l7T5QDL7n36cFjivn4BjbdFCFvBzNZgqzN8REh6kmhGiswEg==
+  dependencies:
+    emotion "^9.2.6"
+    react "^16.6.3"
+    react-emotion "^9.2.6"
+
 abbrev@1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/abbrev/-/abbrev-1.1.1.tgz#f8f2c887ad10bf67f634f005b6987fed3179aac8"

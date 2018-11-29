@@ -2,7 +2,7 @@
   "name": "@robinpowered/ui-card",
   "version": "1.0.2",
   "description": "",
-  "main": "dist/index.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "babel index.js -d dist"
@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@robinpowered/ui-core": "^1.0.2",
     "emotion": "^9.2.6",
     "react": "^16.6.3",
     "react-emotion": "^9.2.6"
