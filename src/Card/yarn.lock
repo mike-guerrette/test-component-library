@@ -72,10 +72,10 @@
   resolved "https://registry.yarnpkg.com/@emotion/utils/-/utils-0.8.2.tgz#576ff7fb1230185b619a75d258cbc98f0867a8dc"
   integrity sha512-rLu3wcBWH4P5q1CGoSSH/i9hrXs7SlbRLkoq9IGuoPYNGQvDJ3pt/wmOM+XgYjIDRMVIdkUWt0RsfzF50JfnCw==
 
-"@robinpowered/ui-core@^1.0.3":
-  version "1.0.3"
-  resolved "http://0.0.0.0:4873/@robinpowered%2fui-core/-/ui-core-1.0.3.tgz#4a39c63fbc0bc4c256ff1e9eb9d756737c3173a4"
-  integrity sha512-XO8TRBAWl+pQtR1Cvy428TSBeML9o7XVIHZdBnthMg1fLp14bPlnI8FXiJ/fYrPo4lMnkaqQ0OIwKJLRQU0hsQ==
+"@robinpowered/ui-core@^1.0.4":
+  version "1.0.4"
+  resolved "http://0.0.0.0:4873/@robinpowered%2fui-core/-/ui-core-1.0.4.tgz#ca3001b4f857040735840261e47df86882af34cb"
+  integrity sha512-bMATSiX8IulI/vQH92M1n6b6xFhY5KKjwzaPphkMNXxiO3P50qRbYtAGbxsUTGRPZr+Ccm6uPyMqnYWQaMXs7w==
   dependencies:
     emotion "^9.2.6"
     react "^16.6.3"
