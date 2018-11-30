@@ -1,6 +1,6 @@
 {
   "name": "@robinpowered/ui-card",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@robinpowered/ui-core": "^1.0.12",
+    "@robinpowered/ui-core": "^1.0.13",
     "emotion": "^9.2.6",
     "react": "^16.6.3",
     "react-emotion": "^9.2.6"
