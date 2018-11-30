@@ -5,7 +5,7 @@ const Spacing = {
   Micro: baseSpacing,
   Tiny: baseSpacing * 2,
   xSmall: baseSpacing * 3,
-  Small: baseSpacing * 40,
+  Small: baseSpacing * 4,
   Medium: baseSpacing * 5,
   Large: baseSpacing * 6,
   xLarge: baseSpacing * 8,
