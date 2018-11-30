@@ -1,4 +1,9 @@
 # Robin Component Library
 
+#### Packages
+
+- [`ui-core`](./src/core#readme)
+- [`ui-card`](./src/Card#readme)
+
 #### Known Issues / Concerns
-- Any change, including to stories, will trigger lerna to bump version in package and any dependent packages
+- Single commit mesage for changes across muiltiple packages can be hard to follow
